@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @MacToby
-- 👀 I’m interested in swift development.
+- 👀 I’m interested in swift development and programming in general.
 - 🌱 I’m currently learning swift
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 MacToby/MacToby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
